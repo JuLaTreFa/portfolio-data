@@ -2,7 +2,7 @@
     "works": [
         { "id": 1, "title": "DEXMA", "headline": "Energy intelligence software for organisations taking action on climate change",
           "description": "With data-driven Energy Intelligence, DEXMA helps ESCOs, Utilities, OEMs, Energy Consultants & Green Corporates optimise their Energy Transition and reach their Sustainability goals.",
-          "assigment": "The assigment was to design DEXMA Detect",
+          "assignment": "The assigment was to design DEXMA Detect",
           "href": "https://www.dexma.com/dexma-platform-detect",
           "image": "https://raw.githubusercontent.com/codeDragon491/portfolio-data/master/images/Dexma.png", 
           "backgroundImage":"https://raw.githubusercontent.com/codeDragon491/portfolio-data/master/images/Dexma.png",
